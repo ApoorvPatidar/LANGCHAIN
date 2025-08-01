@@ -228,11 +228,7 @@ If you encounter any issues or have questions:
 - [ ] Persistent storage (database integration)
 - [ ] Export/import chat sessions
 - [ ] Multiple AI model support
-- [ ] Advanced session search and filtering
 - [ ] Message editing and deletion
-- [ ] Custom system prompts per session
-- [ ] File upload support for context
-- [ ] Authentication and user management
 
 ---
 
