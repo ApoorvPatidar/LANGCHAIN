@@ -22,3 +22,4 @@ langserve
 fastapi
 crewai
 crewai_tools
+arxiv
