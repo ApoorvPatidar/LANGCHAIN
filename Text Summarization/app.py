@@ -43,7 +43,7 @@ if st.button("Summarize"):
     else:
         if validators.url(url):
             st.success("Valid URL")
-            if any(substring in url for substring in ["youtube.com", "youtu.be"]):
+            if "youtube.com" in url:
                 loader = YoutubeLoader.from_youtube_url(url, add_video_info=True)
             else:
                 headers = {
