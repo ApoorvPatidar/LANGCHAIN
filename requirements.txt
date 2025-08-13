@@ -23,3 +23,7 @@ fastapi
 crewai
 crewai_tools
 arxiv
+faiss-cpu
+validators
+youtube-transcript-api
+unstructured
