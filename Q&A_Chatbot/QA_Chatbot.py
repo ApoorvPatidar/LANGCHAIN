@@ -11,8 +11,6 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables.history import RunnableWithMessageHistory
 
 
-
-
 # Instantiate LLM model
 model = ChatGoogleGenerativeAI(model = 'gemini-1.5-flash')
 
