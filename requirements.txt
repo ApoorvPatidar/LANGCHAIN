@@ -27,3 +27,6 @@ faiss-cpu
 validators
 youtube-transcript-api
 unstructured
+gradio
+duckduckgo-search
+lamini

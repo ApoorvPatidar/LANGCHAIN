@@ -16,7 +16,7 @@ api_runner_arxiv = ArxivAPIWrapper(top_k_results=5, doc_content_chars=500)
 arxiv = ArxivQueryRun(api_wrapper = api_runner_arxiv)
 search = DuckDuckGoSearchRun(name = 'Search') # 'Search' Defines the name when the tool is used
 
-
+st.secrets["GOOGLE_API_KEY"]
 
 st.title("LangChain Agent")
 '''
