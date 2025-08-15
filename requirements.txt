@@ -29,4 +29,6 @@ youtube-transcript-api
 unstructured
 gradio
 duckduckgo-search
-lamini
+pinecone
+pinecone-text
+pinecone-notebooks
