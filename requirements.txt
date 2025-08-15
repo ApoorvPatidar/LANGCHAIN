@@ -32,3 +32,4 @@ duckduckgo-search
 pinecone
 pinecone-text
 pinecone-notebooks
+keras-nlp
